@@ -11,7 +11,6 @@
 
   Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/ridex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -19,7 +18,7 @@
 
 ### Demo Screeshots
 
-![Ridex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 
