@@ -8,7 +8,7 @@
 
 
   <h2 align="center"> Car rent website</h2>
-    <img src="./readme-images/desktop.jpg" />
+    <img src="./readme-images/desktop.png" />
 
   Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
